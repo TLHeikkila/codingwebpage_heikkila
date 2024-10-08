@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	margin-top: auto;
+	margin-right:20%;
+	margin-left:20%;
+	margin-bottom: auto
+}
+
+h1 {
+	align-content: center;
+	color: #ed6a5a
+}
+p {
+    align-content: center;
+    color: #5ca4a9;
+    text-align: center;
+}
+.bodyfont{
+	color: #9bc1bc
+}
+header {
+	padding-bottom: 5%;
+    border-top: thick solid blue;
+	background-color: #ffffff
+}
+section{
+	background-color: antiquewhite
+	
+	
+	
+}
+
+footer{
+	color: aquamarine;
+	background-color: #9bc1bc;
+		
+		
+}
